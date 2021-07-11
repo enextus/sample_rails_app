@@ -1,0 +1,15 @@
+current directory: /home/enextus/IdeaProjects/sample_rails_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/enextus/.rbenv/versions/3.0.2/bin/ruby -I /home/enextus/.rbenv/versions/3.0.2/lib/ruby/site_ruby/3.0.0 -r ./siteconf20210711-57915-snrv0e.rb extconf.rb
+creating Makefile
+
+current directory: /home/enextus/IdeaProjects/sample_rails_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/enextus/IdeaProjects/sample_rails_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/enextus/IdeaProjects/sample_rails_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210711-57915-31o1i0/skiptrace/internal
