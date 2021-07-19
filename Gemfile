@@ -18,6 +18,7 @@ gem 'jbuilder',                   '2.10.0'
 gem 'bootsnap',                   '1.7.2', require: false
 gem 'factory_bot',                '6.1.0'
 gem 'factory_bot_rails',          '6.1.0'
+
 group :development, :test do
   # gem 'debase'
   # gem 'ruby-debug-ide'
@@ -26,6 +27,7 @@ group :development, :test do
   gem 'sqlite3',            '1.4.2'
   gem 'byebug',             '11.1.3', platforms: [:mri, :mingw, :x64_mingw]
 end
+
 group :development do
   gem 'web-console',        '4.1.0'
   gem 'rack-mini-profiler', '2.3.1'
